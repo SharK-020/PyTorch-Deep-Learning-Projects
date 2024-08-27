@@ -4,6 +4,8 @@ This repository contains a collection of deep learning projects I've developed u
 
 ## Projects
 
+- **Iris-Classification**: A classification model built using PyTorch to classify species in the Iris dataset.
+
 (More projects to be added as I progress.)
 
 ## Installation
@@ -17,11 +19,14 @@ pip install -r requirements.txt
 ```
 
 ## Usage
+
 Each project has its own directory. Navigate to the desired project and run the scripts as instructed.
+
 ```bash
 cd Project-Name
 python main.py
 ```
+
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
