@@ -4,10 +4,6 @@ This repository contains a collection of deep learning projects I've developed u
 
 ## Projects
 
-- **Project 1**: Brief description.
-- **Project 2**: Brief description.
-- **Project 3**: Brief description.
-
 (More projects to be added as I progress.)
 
 ## Installation
